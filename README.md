@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 📝 I regularly write articles on [https://medium.com/@pp411100]
+- 📝 I regularly write articles on [[https://medium.com/@pp411100](https://medium.com/@prabhu001)]
 
 - 💬 Ask me about **Nodejs**
 
