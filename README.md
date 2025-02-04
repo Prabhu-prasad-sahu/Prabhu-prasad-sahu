@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prabhu Prasad Sahu</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 🌱 I’m currently learning **React.js**
 
 - 📝 I regularly write articles on [[https://medium.com/@pp411100](https://medium.com/@prabhu001)]
 
